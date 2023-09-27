@@ -1,0 +1,14 @@
+2023-09-27/11:10:15		Start of Validation on files for prediction!!
+2023-09-27/11:10:17		Raw Data Validation Complete!!
+2023-09-27/11:10:17		Starting Data Transforamtion!!
+2023-09-27/11:10:17		DataTransformation Completed!!!
+2023-09-27/11:10:17		Creating Training_Database and tables on the basis of given schema!!!
+2023-09-27/11:10:17		Table creation Completed!!
+2023-09-27/11:10:17		Insertion of Data into Table started!!!!
+2023-09-27/11:15:10		Insertion in Table completed!!!
+2023-09-27/11:15:10		Deleting Good Data Folder!!!
+2023-09-27/11:15:10		Good_Data folder deleted!!!
+2023-09-27/11:15:10		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-09-27/11:15:10		Bad files moved to archive!! Bad folder Deleted!!
+2023-09-27/11:15:10		Validation Operation completed!!
+2023-09-27/11:15:10		Extracting csv file from table

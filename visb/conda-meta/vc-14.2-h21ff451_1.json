@@ -1,0 +1,36 @@
+{
+  "build": "h21ff451_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/anaconda/win-64",
+  "constrains": [],
+  "depends": [
+    "vs2015_runtime >=14.27.29016"
+  ],
+  "extracted_package_dir": "C:\\Users\\riach\\Anaconda3\\pkgs\\vc-14.2-h21ff451_1",
+  "features": "",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "vc-14.2-h21ff451_1.tar.bz2",
+  "license": "Modified BSD License (3-clause)",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\riach\\Anaconda3\\pkgs\\vc-14.2-h21ff451_1",
+    "type": 1
+  },
+  "md5": "45ef24c486a484f079faf1dc90e4c7e9",
+  "name": "vc",
+  "package_tarball_full_path": "C:\\Users\\riach\\Anaconda3\\pkgs\\vc-14.2-h21ff451_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "dd86ecdc7a11af2624841b0670b7de722078e050f2a91bcd4bdc3df1871f45b1",
+  "size": 8277,
+  "subdir": "win-64",
+  "timestamp": 1605602889180,
+  "track_features": "vc14",
+  "url": "https://conda.anaconda.org/anaconda/win-64/vc-14.2-h21ff451_1.tar.bz2",
+  "version": "14.2"
+}

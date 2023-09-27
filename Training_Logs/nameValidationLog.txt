@@ -1,0 +1,6 @@
+2023-09-27/11:10:15		Invalid File Name!! File moved to Bad Raw Folder :: highvisibility_08012017_120019.csv
+2023-09-27/11:10:15		Valid File name!! File moved to GoodRaw Folder :: visibility_08012008_120010.csv
+2023-09-27/11:10:16		Valid File name!! File moved to GoodRaw Folder :: visibility_08012009_120011.csv
+2023-09-27/11:10:16		Valid File name!! File moved to GoodRaw Folder :: visibility_08012010_120012.csv
+2023-09-27/11:10:16		Valid File name!! File moved to GoodRaw Folder :: visibility_08012011_120013.csv
+2023-09-27/11:10:16		Valid File name!! File moved to GoodRaw Folder :: visibility_08012012_120014.csv

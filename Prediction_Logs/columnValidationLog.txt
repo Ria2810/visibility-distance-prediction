@@ -1,0 +1,6 @@
+2023-09-27/12:18:25		Column Length Validation Started!!
+2023-09-27/12:18:25		Invalid Column Length for the file!! File moved to Bad Raw Folder :: visibility_08012008_120010.csv
+2023-09-27/12:18:26		Column Length Validation Completed!!
+2023-09-27/12:24:40		Column Length Validation Started!!
+2023-09-27/12:24:40		Invalid Column Length for the file!! File moved to Bad Raw Folder :: visibility_08012008_120010.csv
+2023-09-27/12:24:42		Column Length Validation Completed!!
